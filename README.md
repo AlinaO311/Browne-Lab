@@ -11,7 +11,11 @@
 ##Organization for files to be provessed:
 
 1) Directory for _ALL_ libraries to be processed
+
 2) Sub-directories to store the unique samples from each library
+
 3) Within each 'sample_subdirectory' have unique reads with Foward and Reverse indicated by 1 and 2.
+
 4) Run script to process all files into proper format, files go from .fastq-->.fq(trinity format) and place into same folders
+
 5) Run Trinity on selected libraries/samples/individual_files?
