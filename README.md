@@ -1,6 +1,6 @@
 # Browne-Lab
 
-##Re-fromatting .fq Illumina reads
+##Re-fromating .fq Illumina reads
 
 *trinity appears to process files in an older Illumina .fq format such that the end of the header of the new Illumina files are no longer compatible with trinity
 
@@ -8,7 +8,7 @@
 
 *Create script to run through a directory every file and to create unique output for each sample in library. 
 
-##Organization for files to be provessed:
+##Organization for files to be processed:
 
 1) Directory for _ALL_ libraries to be processed
 
